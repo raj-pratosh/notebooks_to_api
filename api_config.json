@@ -1,0 +1,9 @@
+{"input_type":"file",
+"files_allowed": {"image":["png", "jpeg", "jpg", "JPEG", "JPG", "PNG"], "pdf":["pdf","PDF"]},
+"url_name":"summa",
+"func_name":"demo",
+"request_type":"post",
+"bearer_token":"qrte334tyy5",
+"port_nmbr":8080,
+"num_workers":1
+}
