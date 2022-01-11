@@ -1,5 +1,5 @@
 # notebooks_to_api
-An easy to use framework for converting jupyter notebooks into REST APIs.
+An easy to use framework for building production ML APIs in jupyter notebooks.
 
 # Installation
 Clone this repo to your project directory.
