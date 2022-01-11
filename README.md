@@ -16,7 +16,7 @@ FLOW :  notebooks -> scripts -> api
 
   `!python notebooks_to_api/nbs_to_script.py notebook2script notebook_name`
 
-![Eg. image](../master/source/nbs2script.png)
+![Eg. image](../main/source/nbs2script.png)
 
 (this converts the codes from cells marked with "#export" to scripts, for Eg. in the above picture it converts last 2 cells excluding the first one)
 
